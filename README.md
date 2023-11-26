@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ro'zimuhammad</h1>
+<h1 align="left">Hi 👋, I'm Ro'zimuhammad</h1>
 <h3 align="center">Experienced frontend developer from Uzbekistan</h3>
 <img align="right" alt "Coding" width="400px" src="https://i.pinimg.com/564x/e4/56/94/e4569443714172f2773aea229195685c.jpg"></img>
 
