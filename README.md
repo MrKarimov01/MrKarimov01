@@ -2,11 +2,11 @@
 <h3 align="center">Experienced frontend developer from Uzbekistan</h3>
 <img align="right" alt "Coding" width="400px" src="https://i.pinimg.com/564x/e4/56/94/e4569443714172f2773aea229195685c.jpg"></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkarimov01&label=Profile%20views&color=0e75b6&style=flat" alt="mrkarimov01" /> </p>
+<p align="left"> <img src="https://eapi.pcloud.com/getpubthumb?code=XZqSoDZHhqsyQMcQNzkoBaTY2qYAh5njUTX&linkpassword=undefined&size=1024x1024&crop=0&type=auto" alt="mrkarimov01" /> </p>
 
 - 🔭 I’m currently working on **aniseezn web app**
 
-- 🌱 I’m currently learning **Typescript, Veujs, Nuxtjs**
+- 🌱 I’m currently learning **Nodejs, Veujs, Nuxtjs**
 
 - 👯 I’m looking to collaborate on **creative team**
 
