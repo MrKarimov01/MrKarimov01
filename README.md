@@ -2,7 +2,7 @@
 <h3 align="center">Experienced frontend developer from Uzbekistan</h3>
 <img align="right" alt "Coding" width="400px" src="https://eapi.pcloud.com/getpubthumb?code=XZqSoDZHhqsyQMcQNzkoBaTY2qYAh5njUTX&linkpassword=undefined&size=1024x1024&crop=0&type=auto"></img>
 
-<p align="left"> <img src="https://eapi.pcloud.com/getpubthumb?code=XZqSoDZHhqsyQMcQNzkoBaTY2qYAh5njUTX&linkpassword=undefined&size=1024x1024&crop=0&type=auto" alt="mrkarimov01" /> </p>
+
 
 - 🔭 I’m currently working on **aniseezn web app**
 
