@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ro'zimuhammad</h1>
 <h3 align="center">Experienced frontend developer from Uzbekistan</h3>
-<img align="right" alt "Coding" width="400px" src="https://i.pinimg.com/564x/e4/56/94/e4569443714172f2773aea229195685c.jpg"></img>
+<img align="right" alt "Coding" width="400px" src="https://eapi.pcloud.com/getpubthumb?code=XZqSoDZHhqsyQMcQNzkoBaTY2qYAh5njUTX&linkpassword=undefined&size=1024x1024&crop=0&type=auto"></img>
 
 <p align="left"> <img src="https://eapi.pcloud.com/getpubthumb?code=XZqSoDZHhqsyQMcQNzkoBaTY2qYAh5njUTX&linkpassword=undefined&size=1024x1024&crop=0&type=auto" alt="mrkarimov01" /> </p>
 
