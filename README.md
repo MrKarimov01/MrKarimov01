@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f&label=Profile%20views&color=0e75b6&style=flat" alt="f" /> </p>
 
-- 🔭 I’m currently working on **aniseezn web app**
+- 🔭 I’m currently working on **A-uzb dub web app**
 
 - 🌱 I’m currently learning **Nodejs, Veujs, Nuxtjs**
 
