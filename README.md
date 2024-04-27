@@ -15,9 +15,9 @@
 
 - 📝 Menga <b>telegram</b> orqali bog'laning [<b>Havola</b>](https://t.me/MuhammadLink))
 
-- 📫 How to reach me **Not Now**
+- 📫 Email orqali bog'lanish **Not Now**
 
-- ⚡ Fun fact **Only i can do it**
+- ⚡ Ishdagi qoidam **Only i can do it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
