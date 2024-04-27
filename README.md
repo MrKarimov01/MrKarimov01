@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Not Now**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **Only i can do it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
