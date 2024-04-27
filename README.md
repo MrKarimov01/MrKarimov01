@@ -13,9 +13,7 @@
 
 - 👯 Jamoani birdamlikda ushlab tura olaman
 
-- 📝 Menga <b>Telegram</b> orqali bog'laning [<b>Havola</b>](https://t.me/MuhammadLink))
-
-- 💬 Ask me about **Web, Dubbing**
+- 📝 Menga <b>telegram</b> orqali bog'laning [<b>Havola</b>](https://t.me/MuhammadLink))
 
 - 📫 How to reach me **Not Now**
 
