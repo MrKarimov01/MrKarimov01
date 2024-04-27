@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ro'zimuhammad</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salom+Hammaga!+👋;+Men+Muhiddinman!;" />
+</h1>
+
 <h3 align="center">Experienced frontend developer from Uzbekistan</h3>
 <img align="right" alt "Coding" width="400px" src="https://eapi.pcloud.com/getpubthumb?code=XZqSoDZHhqsyQMcQNzkoBaTY2qYAh5njUTX&linkpassword=undefined&size=1024x1024&crop=0&type=auto"></img>
 
