@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web, Dubbing**
 
-- 📫 How to reach me **karimovdev01@gmail.com**
+- 📫 How to reach me **Not Now**
 
 - ⚡ Fun fact **I am funny**
 
