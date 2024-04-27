@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **creative team**
 
-- 📝 I regularly write articles on [Telegram](https://t.me/MuhammadLink))
+- 📝 I regularly write articles on [<b>Telegram</b>](https://t.me/MuhammadLink))
 
 - 💬 Ask me about **Web, Dubbing**
 
