@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SeeznTv WeB**
 
-- 🌱 I’m currently learning **Nodejs, Nuxtjs, Python**
+- 🌱 Men Izlanishdan To'xtamayman **Nodejs, Nuxtjs, Python**
 
 - 👯 I’m looking to collaborate on **creative team**
 
