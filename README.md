@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f&label=Profile%20views&color=0e75b6&style=flat" alt="f" /> </p>
 
-- 🔭 I’m currently working on **A-uzb dub web app**
+- 🔭 I’m currently working on **SeeznTv WeB**
 
-- 🌱 I’m currently learning **Nodejs, Veujs, Nuxtjs**
+- 🌱 I’m currently learning **Nodejs, Nuxtjs, Python**
 
 - 👯 I’m looking to collaborate on **creative team**
 
-- 📝 I regularly write articles on [https://t.me/RozimuhammadDev](https://t.me/RozimuhammadDev)
+- 📝 I regularly write articles on [Telegram](https://t.me/MuhammadLink))
 
 - 💬 Ask me about **Web, Dubbing**
 
