@@ -29,6 +29,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrkarimov01&show_icons=true&locale=en&layout=compact" alt="mrkarimov01" /></p>
 
+
+
+
+
+<br/>
+<hr/>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
