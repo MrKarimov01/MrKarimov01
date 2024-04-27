@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/seezntvuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniseezn" height="30" width="40" /></a>
-    <a href="https://instagram.com/seezntvuz" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATelegram_logo.svg&psig=AOvVaw3H_QLbCxZqHLZOXqNYHm6H&ust=1714348466240000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDj9evL44UDFQAAAAAdAAAAABAE" alt="aniseezn" height="30" width="40" /></a>
+    <a href="https://instagram.com/seezntvuz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg" alt="aniseezn" height="30" width="40" /></a>
 </p>
 <br/><br/>
  <hr/>
