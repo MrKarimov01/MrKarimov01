@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salom+Hammaga!+👋;+Ismim+Muhammadman!;" />
 </h1>
@@ -5,7 +6,6 @@
 <h3 align="center">O‘zbekistonlik tajribali frontend dasturchisi</h3>
 <img align="right" alt "Coding" width="400px" src="https://eapi.pcloud.com/getpubthumb?code=XZqSoDZHhqsyQMcQNzkoBaTY2qYAh5njUTX&linkpassword=undefined&size=1024x1024&crop=0&type=auto"></img>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> 
 
 - 🔭 I’m currently working on **SeeznTv WeB**
 
