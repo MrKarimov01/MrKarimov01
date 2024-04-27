@@ -5,7 +5,7 @@
 <h3 align="center">O‘zbekistonlik tajribali frontend dasturchisi</h3>
 <img align="right" alt "Coding" width="400px" src="https://eapi.pcloud.com/getpubthumb?code=XZqSoDZHhqsyQMcQNzkoBaTY2qYAh5njUTX&linkpassword=undefined&size=1024x1024&crop=0&type=auto"></img>
 
-<p align="left"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> 
 
 - 🔭 I’m currently working on **SeeznTv WeB**
 
