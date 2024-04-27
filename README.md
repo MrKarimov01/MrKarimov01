@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **SeeznTv WeB**
 
-- 🌱 Men Izlanishdan To'xtamayman **Nodejs, Nuxtjs, Python**
+- 🌱 Men izlanishdan to'xtamayman
 
-- 👯 I’m looking to collaborate on **creative team**
+- 👯 Jamoani birdamlikda ushlab tura olaman
 
-- 📝 I regularly write articles on [<b>Telegram</b>](https://t.me/MuhammadLink))
+- 📝 Menga <b>Telegram</b> orqali bog'laning [<b>Havola</b>](https://t.me/MuhammadLink))
 
 - 💬 Ask me about **Web, Dubbing**
 
