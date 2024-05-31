@@ -7,7 +7,7 @@
 <img align="right" alt "Coding" width="400px" src="https://eapi.pcloud.com/getpubthumb?code=XZqSoDZHhqsyQMcQNzkoBaTY2qYAh5njUTX&linkpassword=undefined&size=1024x1024&crop=0&type=auto"></img>
 <br/><br/>
 
-- 🔭 I’m currently working on **SeeznTv WeB**
+- 🔭 Hozirda **SeeznTv Web** ustida ish olib boryapman
 
 - 🌱 Men izlanishdan to'xtamayman
 
