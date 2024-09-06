@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/seezntvuz" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="aniseezn" height="40" width="40" /></a>
-    <a href="https://t.me/Dark_devLink" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="aniseezn" height="40" width="40" /></a>
+
+    <a href="https://t.me/Muhammad_Linkdev" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="aniseezn" height="40" width="40" /></a>
 </p>
 <br/><br/>
  <hr/>
