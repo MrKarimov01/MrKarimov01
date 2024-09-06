@@ -15,7 +15,7 @@
 
 - 📫 Email orqali bog'lanish **Not Now**
 
-- ⚡ Ishdagi qoidam **Only i can do it**
+- ⚡ Ishdagi qoidam **Only we can do it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
