@@ -7,13 +7,11 @@
 <img align="right" alt "Coding" width="400px" src="https://eapi.pcloud.com/getpubthumb?code=XZqSoDZHhqsyQMcQNzkoBaTY2qYAh5njUTX&linkpassword=undefined&size=1024x1024&crop=0&type=auto"></img>
 <br/><br/>
 
-- 🔭 Hozirda **SeeznTv Web** ustida ish olib boryapman
+- 🔭 Hozirda **SeeznTv Platform** ustida ish olib boryapman
 
 - 🌱 Men izlanishdan to'xtamayman
 
-- 👯 Jamoani birdamlikda ushlab tura olaman
-
-- 📝 Menga <b>telegram</b> orqali bog'laning [<b>Havola</b>](https://t.me/MuhammadLink))
+- 📝 Menga <b>telegram</b> orqali bog'laning [<b>Havola</b>](https://t.me/Muhammad_Linkdev))
 
 - 📫 Email orqali bog'lanish **Not Now**
 
