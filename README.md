@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">O‘zbekistonlik Tajribali Frontend Dasturchi</h3>
-<img align="right" alt "Coding" width="400px" src="https://eth1.pcloud.com/tLZ2KRU7MZRDRZx0V4ZZ8pdxkkZKd4Z7ZZsfZ25ZVzZL5ZG0Zy4azfWldAChqi4Lk8bViNQNN83B7/dev.png"></img>
+<img align="right" alt "Coding" width="400px" src="https://eapi.pcloud.com/getpubthumb?code=XZKh9PZao6tpmM6lDmT0TOtlxyykbquac17&linkpassword=undefined&size=1492x392&crop=0&type=auto"></img>
 <br/><br/>
 
 - 🔭 Hozirda **SeeznTv Platform** ustida ish olib boryapman
