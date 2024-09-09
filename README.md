@@ -6,6 +6,8 @@
 <h3 align="center">O‘zbekistonlik Tajribali Frontend Dasturchi</h3>
 <br/>
 <br/>
+<br/>
+<br/>
 <img align="right" alt "Coding" width="400px" src="https://eapi.pcloud.com/getpubthumb?code=XZKh9PZao6tpmM6lDmT0TOtlxyykbquac17&linkpassword=undefined&size=1492x392&crop=0&type=auto"></img>
 <br/><br/>
 
