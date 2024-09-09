@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">O‘zbekistonlik Tajribali Frontend Dasturchi</h3>
-<img align="right" alt "Coding" width="400px" src="https://e1.pxfuel.com/desktop-wallpaper/72/1020/desktop-wallpaper-programming-code-at-programming-code.jpg"></img>
+<img align="right" alt "Coding" width="400px" src="https://eth1.pcloud.com/tLZ2KRU7MZRDRZx0V4ZZ8pdxkkZKd4Z7ZZsfZ25ZVzZL5ZG0Zy4azfWldAChqi4Lk8bViNQNN83B7/dev.png"></img>
 <br/><br/>
 
 - 🔭 Hozirda **SeeznTv Platform** ustida ish olib boryapman
