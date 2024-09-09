@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">O‘zbekistonlik Tajribali Frontend Dasturchi</h3>
-<img align="right" alt "Coding" width="400px" src="https://eapi.pcloud.com/getpubthumb?code=XZqSoDZHhqsyQMcQNzkoBaTY2qYAh5njUTX&linkpassword=undefined&size=1024x1024&crop=0&type=auto"></img>
+<img align="right" alt "Coding" width="400px" src="https://e1.pxfuel.com/desktop-wallpaper/122/973/desktop-wallpaper-need-more-coffee-programmer-story-funny-anime-drinking-coffee.jpg"></img>
 <br/><br/>
 
 - 🔭 Hozirda **SeeznTv Platform** ustida ish olib boryapman
